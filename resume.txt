@@ -1,5 +1,7 @@
 Name:Rithesh
 Age: 23
 qualification:CTC
+degree: B TECH
+PLACE - Bangalore
 
 exp:1
