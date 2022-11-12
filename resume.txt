@@ -1,4 +1,5 @@
-Name:
-Age
-qualification:
-exp:
+Name:Rithesh
+Age: 23
+qualification:CTC
+
+exp:1
